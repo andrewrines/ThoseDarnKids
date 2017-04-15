@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogues>
+
+  <Hellos>
+    <Warrior>"I wanna get Hammered"</Warrior>
+    <Rogue>"Coin, COIN"</Rogue>
+    <Wizard>"I can drink Gandalf under the table "</Wizard>
+    <Wizard>"Tycho is a good band "</Wizard>
+    <Bard>"I feel a drinky"</Bard>
+
+  </Hellos>
+
+  <Quest>
+    <Warrior>"I would do it myself, but I am too drunk for this"</Warrior>
+    <Rogue>"Yea, heard about something you might find... intersting"</Rogue>
+    <Wizard>"Spelling BEE "</Wizard>
+    <Wizard>"Music make me loose control "</Wizard>
+    <Bard>"Bad people suck, almost as much as straws"</Bard>
+
+  </Quest>
+
+  <Drink>
+    <Warrior>"Drinkenstein's monster only makes sense if it's a beer stein"</Warrior>
+    <Rogue>I can still feel the weight of my sins, ale please!"</Rogue>
+    <Wizard>"I prefer a mai tai "</Wizard>
+    <Wizard>"OOGA CHUGGA is more like it"</Wizard>
+    <Bard>"Drunkula"</Bard>
+
+  </Drink>
+
+  <GoOnQuest>
+    <Warrior>"Born Ta fight!"</Warrior>
+    <Rogue>"I will spin the wheel for my treasure to take"</Rogue>
+    <Wizard>"E-X-P for M-E-E"</Wizard>
+    <Wizard>"Ya like jazz?"</Wizard>
+    <Bard>"So I found this..."</Bard>
+
+  </GoOnQuest>
+
+  <Accept>
+    <Warrior>"To glory"</Warrior>
+    <Rogue>"They won't even know what hit em' "</Rogue>
+    <Wizard>"Time to put my research to the test"</Wizard>
+    <Wizard>"I shoulden't have eated that gluestick"</Wizard>
+    <Bard>"heh, easy pay!"</Bard>
+
+  </Accept>
+
+  <Decline>
+    <Warrior>"That's not gonna cut it"</Warrior>
+    <Rogue>"No way, not risking my skin for chump change "</Rogue>
+    <Wizard>"Alexander the Great is displeased with your offer"</Wizard>
+    <Wizard>"You are not a nice person."</Wizard>
+    <Bard>"Ain't running a charity here..."</Bard>
+
+  </Decline>
+
+  <Talk>
+    <Warrior>"I would rather diiiiiiie anywhere else"</Warrior>
+    <Rogue>Blah blah talk blah"</Rogue>
+    <Wizard>"jump jets "</Wizard>
+    <Wizard>"unga tunga"</Wizard>
+    <Bard>"It smells like corn outside"</Bard>
+
+  </Talk>
+
+
+</Dialogues>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Quests>
+
+<Quest>
+    <QuestName>"Buy more"</QuestName>
+    <Description>"googogogooo"</Description>
+  </Quest>
+
+  <Quest>
+    <QuestName>"GetMoney"</QuestName>
+    <Description>"This is a test, this is only a test"</Description>
+  </Quest>
+  
+  <Quest>
+    <QuestName>"Spin The wheel"</QuestName>
+    <Description>"Careful my friend"</Description>
+  </Quest>
+
+  <Quest>
+    <QuestName>"Shake that bottem line"</QuestName>
+    <Description>"How ba-ah-a-d can it possibly be?"</Description>
+  </Quest>
+
+  <Quest>
+    <QuestName>"Find kubo a home"</QuestName>
+    <Description>"On your dvd shelf, today!"</Description>
+  </Quest>
+</Quests>
