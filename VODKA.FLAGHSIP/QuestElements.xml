@@ -2,27 +2,27 @@
 <Quests>
 
 <Quest>
-    <QuestName>"Buy more"</QuestName>
-    <Description>"googogogooo"</Description>
+    <QuestName>"Slay a Dragon"</QuestName>
+    <Description>"A patron voiced their concern regarding some recent dragon attacks in the West."</Description>
   </Quest>
 
   <Quest>
-    <QuestName>"GetMoney"</QuestName>
-    <Description>"This is a test, this is only a test"</Description>
+    <QuestName>"Challenge a Sphinx in a Battle of Wits"</QuestName>
+    <Description>"Apparently there's a Sphinx in a nearby dungeon, playing warden to a heap of gold. If someone guesses its riddles correctly, they'll share some of their fortune."</Description>
   </Quest>
   
   <Quest>
-    <QuestName>"Spin The wheel"</QuestName>
-    <Description>"Careful my friend"</Description>
+    <QuestName>"Burgle a Local Aristocrat"</QuestName>
+    <Description>"A rich fellow by the name of Jorpley is going on vacation with his family, leaving his vast estate empty for the weekend. If someone could sneak past the guards, they could make off with some of his wealth! "</Description>
   </Quest>
 
   <Quest>
-    <QuestName>"Shake that bottem line"</QuestName>
-    <Description>"How ba-ah-a-d can it possibly be?"</Description>
+    <QuestName>"Try out for a Play"</QuestName>
+    <Description>"The local theatre has an opening in their upcoming production, since the death of one of their actors. Apparently, the job pays well."</Description>
   </Quest>
 
   <Quest>
-    <QuestName>"Find kubo a home"</QuestName>
-    <Description>"On your dvd shelf, today!"</Description>
+    <QuestName>"Defend the Town from Bandits"</QuestName>
+    <Description>"Word on the streets is that a squad of bandits is planning to attack Duloc tomorrow night. Any adventurer who volunteers to fend them off will be paid handsomely."</Description>
   </Quest>
 </Quests>
