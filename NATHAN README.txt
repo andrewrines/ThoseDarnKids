@@ -11,4 +11,10 @@ After it commits, NORMALLY you'd press "Sync" in the top right-hand corner, but 
 * Type "git status"
 * If there are no crazy conflicts, type "git push"
 
+If you're looking to PULL from the Git (Which you should always always always always always always always always always do before a push), follow these steps:
+
+* Click on the gear in the top-right hand corner and press "Open in Git Shell"
+* Type "git status"
+* If there are no crazy conflicts, type "git pull"
+
 YA DONE.
